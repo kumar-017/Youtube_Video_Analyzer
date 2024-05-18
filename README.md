@@ -78,4 +78,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-Thank you for using the YouTube Video Summarizer! We hope this tool helps you save time and gain insights from YouTube videos more efficiently.
+Thank you for using the YouTube Video Analyzer! We hope this tool helps you save time and gain insights from YouTube videos more efficiently.
